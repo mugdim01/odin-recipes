@@ -1,0 +1,33 @@
+.title {
+    background-color: lightgray;
+    text-align: center;
+    font-family: 'Georgia', sans-serif;
+}
+
+.homelinks {
+    font-size: 20px;
+}
+
+.pizzadiv {
+    text-align: center;
+}
+
+.pizzaimg {
+    width: 350px;
+}
+
+.spaghettidiv {
+    text-align: center;
+}
+
+.spaghettiimg {
+    width: 350px;
+}
+
+.bananadiv {
+    text-align: center;
+}
+
+.bananaimg {
+    width: 350px;
+}
